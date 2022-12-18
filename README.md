@@ -8,4 +8,4 @@ The user interface is very intuitive: We can either save, generate or search for
 Just place your personal logo (245*245, png) and you are ready to go. 
 
 
-![](locksmith_ui.jpg)
+![](locksmith_ui.JPG)
