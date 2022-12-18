@@ -8,4 +8,4 @@ The user interface is very intuitive: We can either save, generate or search for
 Just place your personal logo (245*245, png) and you are ready to go. 
 
 
-![UI](https://github.com/gamaiun/Locksmith-Password_manager/edit/main/locksmith_ui.jpg)
+![](main/locksmith_ui.jpg)
